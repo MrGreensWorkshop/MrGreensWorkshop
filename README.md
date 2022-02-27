@@ -1,6 +1,6 @@
 [English] [[日本語](README-jp.md#readme)]
 
-<h2>Mr. Green's Workshop</h2>
+## Mr. Green's Workshop
 
 [<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />](README.md#readme)
 
