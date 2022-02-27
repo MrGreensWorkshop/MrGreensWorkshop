@@ -2,9 +2,9 @@
 
 <h2>Mr. Green's Workshop</h2>
 
-<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />
+[<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />](README-jp.md#readme)
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=MrGreensWorkshop&show_icons=true&hide_border=true">
+[<img width="450" src="https://github-readme-stats.vercel.app/api?username=MrGreensWorkshop&show_icons=true&hide_border=true">](README-jp.md#readme)
 
 [![ビジター数](https://visitor-badge.laobi.icu/badge?page_id=MrGreensWorkshop.MrGreensWorkshop)](README-jp.md#readme)
 [![フォロワー数](https://img.shields.io/github/followers/MrGreensWorkshop?label=Followers&style=badge)](README-jp.md#readme)
@@ -43,7 +43,7 @@
 | シミュレーター | [<img src="icons/github/devicons-devicon/labview-original-wordmark.svg" title="NI Labview" alt="NI Labview" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; <a href="https://www.ni.com/en-us/support/downloads/software-products/download.multisim.html#312060"><img src="icons/external/multisim.webp" title="NI Multisim" alt="NI Multisim" width="25" height="25"/></a>&nbsp; [<img src="icons/github/github-explore/matlab.png" title="MATLAB" alt="MATLAB" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; |
 | CADツール | <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="icons/external/autocad-2017-badge-75x75.png" title="AutoCAD" alt="AutoCAD" width="25" height="25"/></a>&nbsp; <a href="https://github.com/Ultimaker/Cura/"><img src="icons/external/cura-128.png" title="Ultimaker Cura" alt="Ultimaker  Cura" width="25" height="25"/></a>&nbsp; |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGreensWorkshop&hide=php&theme=default" />
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGreensWorkshop&hide=php&theme=default" />](README-jp.md#readme)
 
 - このコンテンツには、[github.com/devicons/devicon](https://github.com/devicons/devicon)、Copyright（c）2015konpaのアイコンが組み込まれています。 [MIT](https://opensource.org/licenses/MIT)ライセンスのもと使用。
 - このコンテンツには、[github.com/github/explore](https://github.com/github/explore)のアイコンが組み込まれています。 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)ライセンスのもと使用。
