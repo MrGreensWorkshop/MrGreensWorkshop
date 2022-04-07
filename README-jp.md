@@ -29,7 +29,7 @@
 プロジェクトを作っているだけでは、お金になりません。（今日もモヤシか。。。）プロジェクトを作り、維持するためには、多くの時間と労力が必要です。皆さんに新しいコンテンツを提供できるよう、支援をご検討いただければ幸いです。
 
 - [Patreon](https://patreon.com/MrGreensWorkshop "パトロンになる")でパトロンになる（月額）
-- [Ko-fi](https://www.ko-fi.com/MrGreensWorkshop "Patreonで支援")で支援する (一回)
+- [Ko-fi](https://www.ko-fi.com/MrGreenWorkshop "Patreonで支援")で支援する (一回)
 
 #### 言語やツールなど
 
