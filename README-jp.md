@@ -8,7 +8,7 @@
 
 [![ビジター数](https://visitor-badge.laobi.icu/badge?page_id=MrGreensWorkshop.MrGreensWorkshop)](README-jp.md#readme)
 [![フォロワー数](https://img.shields.io/github/followers/MrGreensWorkshop?label=Followers&style=badge)](README-jp.md#readme)
-[![Patreonで支援](https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon)](https://patreon.com/MrGreensWorkshop "Patreonで支援")
+[![Patreonで支援](https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon)](https://patreon.com/MrGreenWorkshop "Patreonで支援")
 [![Ko-fiで支援](https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi)](https://www.ko-fi.com/MrGreenWorkshop "Ko-fiで支援")
 
 [![Web サイト](https://shields.io/badge/MrGreensWorkshop.com-gray)](https://www.mrgreensworkshop.com/ja "MrGreensWorkshop.com")
