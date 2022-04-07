@@ -11,10 +11,10 @@
 [![Patreonで支援](https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon)](https://patreon.com/MrGreensWorkshop "Patreonで支援")
 [![Ko-fiで支援](https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi)](https://www.ko-fi.com/MrGreensWorkshop "Ko-fiで支援")
 
-[![Web サイト](https://shields.io/badge/MrGreensWorkshop.com-gray)](https://www.mrgreensworkshop.com "MrGreensWorkshop.com")
-[![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/channel/UCf-BfpqjqvPKGXFc22rkR9w)
-[![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram)](https://www.instagram.com/mrgreensworkshop)
-[![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter)](https://twitter.com/MrGreenWorkshop)
+[![Web サイト](https://shields.io/badge/MrGreensWorkshop.com-gray)](https://www.mrgreensworkshop.com/ja "MrGreensWorkshop.com")
+[![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/channel/UCdqu4izMniyz_WOCp-OO0uQ)
+[![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram)](https://www.instagram.com/mrgreenworkshop)
+[![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter)](https://twitter.com/MrGreenWrkshop)
 
 #### モチベーション
 
