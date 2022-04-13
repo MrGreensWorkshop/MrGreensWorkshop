@@ -2,6 +2,8 @@
 
 ## Mr. Green's Workshop
 
+Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプロジェクトや、コンテンツを制作しています。<br>
+
 [<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />](README-jp.md#readme)
 
 [<img width="450" src="https://github-readme-stats.vercel.app/api?username=MrGreensWorkshop&show_icons=true&hide_border=true">](README-jp.md#readme)
