@@ -30,9 +30,9 @@ Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプ
 
 プロジェクトを作っているだけでは、お金になりません。（今日もモヤシか。。。）プロジェクトを作り、維持するためには、多くの時間と労力が必要です。皆さんに新しいコンテンツを提供できるよう、支援をご検討いただければ幸いです。
 
-- [GitHubスポンサー](https://github.com/sponsors/MrGreensWorkshop)で支援する (一回／月々)
 - [Patreon](https://patreon.com/MrGreenWorkshop "パトロンになる")でパトロンになる（月々）
 - [Ko-fi](https://ko-fi.com/MrGreenWorkshop "Patreonで支援")で支援する (一回)
+- [GitHubスポンサー](https://github.com/sponsors/MrGreensWorkshop)で支援する (一回／月々)
 
 #### 言語やツールなど
 
