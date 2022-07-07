@@ -38,7 +38,7 @@ Creating projects themselves don't pay the bills. It takes a lot of time and eff
 
 My supporters! Thank you for supporting me.
 
-[Josh Buker](https://github.com/joshbuker)
+[Josh Buker](https://github.com/joshbuker "First Supporter")
 
 #### Languages, tools etc.
 
