@@ -38,7 +38,7 @@ Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプ
 
 私のスポンサーです！応援して頂きありがとうございます。
 
-[Josh Buker](https://github.com/joshbuker "初サポーター")
+[Josh Buker](https://github.com/joshbuker "初スポンサー！")
 
 #### 言語やツールなど
 
