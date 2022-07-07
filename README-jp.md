@@ -34,6 +34,12 @@ Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプ
 - [Ko-fi](https://ko-fi.com/MrGreenWorkshop "Ko-fiで支援")で支援する (一回)
 - [GitHubスポンサー](https://github.com/sponsors/MrGreensWorkshop "GitHubスポンサーになる")になる (一回／月々)
 
+#### スポンサー
+
+私のスポンサーです！応援して頂きありがとうございます。
+
+[Josh Buker](https://github.com/joshbuker "初サポーター")
+
 #### 言語やツールなど
 
 |  |  |
