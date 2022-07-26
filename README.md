@@ -10,8 +10,9 @@ Mr. Green's Workshop is creating Software, Electronic, Mechanic related projects
 
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MrGreensWorkshop.MrGreensWorkshop)](README.md#readme)
 [![Follower Count](https://img.shields.io/github/followers/MrGreensWorkshop?label=Followers&style=badge)](README.md#readme)
-[![Tip Me via Patreon](https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon)](https://patreon.com/MrGreensWorkshop "Tip Me via Patreon")
-[![Tip Me via Ko-fi](https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi)](https://ko-fi.com/MrGreensWorkshop "Tip Me via Ko-fi")
+[![Support me on Github Sponsors](https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=githubsponsors)](https://github.com/sponsors/MrGreensWorkshop/ "Support me on Github Sponsors")
+[![Support me on Patreon](https://shields.io/badge/Patreon-Support%20me-blue?logo=Patreon)](https://patreon.com/MrGreensWorkshop "Support me on Patreon")
+[![Tip me via Ko-fi](https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi)](https://ko-fi.com/MrGreensWorkshop "Tip me via Ko-fi")
 
 [![Web Site](https://shields.io/badge/MrGreensWorkshop.com-gray)](https://www.mrgreensworkshop.com "MrGreensWorkshop.com")
 [![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/channel/UCf-BfpqjqvPKGXFc22rkR9w)
@@ -32,7 +33,7 @@ Creating projects themselves don't pay the bills. It takes a lot of time and eff
 
 - You can support me on [GitHub Sponsors](https://github.com/sponsors/MrGreensWorkshop "Support me on GitHub Sponsors") (monthly or one time)
 - You can be one of my patrons on [Patreon](https://patreon.com/MrGreensWorkshop "Be my Patron") (monthly)
-- You can tip me via [Ko-fi](https://ko-fi.com/MrGreensWorkshop "Tip Me via Ko-fi") (one time)
+- You can tip me via [Ko-fi](https://ko-fi.com/MrGreensWorkshop "Tip me via Ko-fi") (one time)
 
 #### Sponsors
 
