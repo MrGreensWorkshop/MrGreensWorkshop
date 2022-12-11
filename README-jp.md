@@ -10,13 +10,14 @@ Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプ
 
 [![ビジター数](https://visitor-badge.laobi.icu/badge?page_id=MrGreensWorkshop.MrGreensWorkshop)](README-jp.md#readme)
 [![フォロワー数](https://img.shields.io/github/followers/MrGreensWorkshop?label=Followers&style=badge)](README-jp.md#readme)
+[![GitHubでスポンサーなる](https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=GitHub+Sponsors)](https://github.com/sponsors/MrGreensWorkshop "GitHubでスポンサーになる")
 [![Patreonで支援](https://shields.io/badge/Patreon-Tip%20me-blue?logo=Patreon)](https://patreon.com/MrGreenWorkshop "Patreonで支援")
 [![Ko-fiで支援](https://shields.io/badge/Ko--fi-Tip%20me-blue?logo=kofi)](https://ko-fi.com/MrGreenWorkshop "Ko-fiで支援")
 
 [![Web サイト](https://shields.io/badge/MrGreensWorkshop.com-gray)](https://www.mrgreensworkshop.com/ja "MrGreensWorkshop.com")
 [![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/channel/UCdqu4izMniyz_WOCp-OO0uQ)
-[![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram)](https://www.instagram.com/mrgreenworkshop)
-[![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter)](https://twitter.com/MrGreenWrkshop)
+[![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram&logoColor=white)](https://www.instagram.com/mrgreenworkshop)
+[![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter&logoColor=white)](https://twitter.com/MrGreenWrkshop)
 
 #### モチベーション
 
