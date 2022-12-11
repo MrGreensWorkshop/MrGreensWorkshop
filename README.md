@@ -16,8 +16,9 @@ Mr. Green's Workshop is creating Software, Electronic, Mechanic related projects
 
 [![Web Site](https://shields.io/badge/MrGreensWorkshop.com-gray)](https://www.mrgreensworkshop.com "MrGreensWorkshop.com")
 [![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/channel/UCf-BfpqjqvPKGXFc22rkR9w)
-[![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram)](https://www.instagram.com/mrgreensworkshop)
-[![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter)](https://twitter.com/MrGreenWorkshop)
+[![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram&logoColor=white)](https://www.instagram.com/mrgreensworkshop)
+[![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter&logoColor=white)](https://twitter.com/MrGreenWorkshop)
+[![Mastodon](https://shields.io/badge/Mastodon-gray?logo=mastodon&logoColor=white)](https://mastodon.social/@MrGreensWorkshop)
 
 #### Motivation
 
