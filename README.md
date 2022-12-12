@@ -2,7 +2,7 @@
 
 ## Mr. Green's Workshop
 
-Mr. Green's Workshop is creating Software, Electronic, Mechanic related projects and contents.<br>
+Mr. Green's Workshop creates projects and content related to Software, Electronics, and Mechanics.<br>
 
 [<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />](README.md#readme)
 
