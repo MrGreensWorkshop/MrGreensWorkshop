@@ -19,8 +19,6 @@ Mr. Green's Workshop creates projects and content related to Software, Electroni
 [![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram&logoColor=white)](https://www.instagram.com/mrgreensworkshop)
 [![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter&logoColor=white)](https://twitter.com/MrGreenWorkshop)
 [![Mastodon](https://shields.io/badge/Mastodon-gray?logo=mastodon&logoColor=white)](https://mastodon.social/@MrGreensWorkshop)
-
-<!-- <a href="https://mastodon.social/@MrGreensWorkshop" rel="me"> -->
   
 #### Motivation
 
