@@ -22,7 +22,7 @@ Mr. Green's Workshop creates projects and content related to Software, Electroni
 
 #### Motivation
 
-I have worked in different fields and gained different experiences. I think it's time to give something back. My father always said, ”You should pay the tax of what you've learned by sharing it with others.”.
+I have worked in different fields and gained different experiences. I think it's time to give something back. My father always used to say, "Pay the tax on what you have learned by sharing it with others.".
 
 #### Why Workshop?
 
@@ -32,8 +32,8 @@ As a maker, I like projects that involve software, electronic circuits, and mech
 
 Creating projects themselves don't pay the bills. It takes a lot of time and efforts to create and maintain projects. I hope you consider supporting me so that I can continue my work and creating new contents for everyone.
 
-- You can support me on [GitHub Sponsors](https://github.com/sponsors/MrGreensWorkshop "Support me on GitHub Sponsors") (monthly or one time)
-- You can be one of my patrons on [Patreon](https://patreon.com/MrGreensWorkshop "Be my Patron") (monthly)
+- You can be one of my [GitHub Sponsors](https://github.com/sponsors/MrGreensWorkshop "Support me on GitHub Sponsors") (monthly or one time)
+- You can be one of my [Patreon](https://patreon.com/MrGreensWorkshop "Be my Patron") (monthly)
 - You can tip me via [Ko-fi](https://ko-fi.com/MrGreensWorkshop "Tip me via Ko-fi") (one time)
 
 #### Sponsors
