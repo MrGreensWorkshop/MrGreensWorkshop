@@ -33,7 +33,7 @@ As a maker, I like projects that involve software, electronic circuits, and mech
 Creating projects themselves don't pay the bills. It takes a lot of time and efforts to create and maintain projects. I hope you consider supporting me so that I can continue my work and creating new contents for everyone.
 
 - You can be one of my [GitHub Sponsors](https://github.com/sponsors/MrGreensWorkshop "Support me on GitHub Sponsors") (monthly or one time)
-- You can be one of my [Patreon](https://patreon.com/MrGreensWorkshop "Be my Patron") (monthly)
+- You can be one of my [Patreons](https://patreon.com/MrGreensWorkshop "Be my Patron") (monthly)
 - You can tip me via [Ko-fi](https://ko-fi.com/MrGreensWorkshop "Tip me via Ko-fi") (one time)
 
 #### Sponsors
