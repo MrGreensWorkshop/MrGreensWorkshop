@@ -36,6 +36,12 @@ Creating projects themselves don't pay the bills. It takes a lot of time and eff
 - You can be one of my [Patreons](https://patreon.com/MrGreensWorkshop "Be my Patron") (monthly)
 - You can tip me via [Ko-fi](https://ko-fi.com/MrGreensWorkshop "Tip me via Ko-fi") (one time)
 
+#### Sponsors
+
+My sponsors! Thank you for supporting me.
+
+[Josh Buker](https://github.com/joshbuker "First Sponsor!")
+
 #### Languages, tools etc.
 
 |  |  |
