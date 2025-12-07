@@ -1,13 +1,9 @@
 [[English](README.md#readme)] [日本語]
 
-## Mr. Green's Workshop
-
-Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプロジェクトや、コンテンツを制作しています。<br>
-
 [<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />](README-jp.md#readme)
-
+<!-- it is not working right now
 [<img width="450" src="https://github-readme-stats.vercel.app/api?username=MrGreensWorkshop&show_icons=true&hide_border=true&locale=ja">](README-jp.md#readme)
-
+-->
 [![ビジター数](https://visitor-badge.laobi.icu/badge?page_id=MrGreensWorkshop.MrGreensWorkshop)](README-jp.md#readme)
 [![フォロワー数](https://img.shields.io/github/followers/MrGreensWorkshop?label=Followers&style=badge)](README-jp.md#readme)
 [![GitHubでスポンサーなる](https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=GitHub+Sponsors)](https://github.com/sponsors/MrGreensWorkshop "GitHubでスポンサーになる")
@@ -18,6 +14,10 @@ Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプ
 [![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/channel/UCdqu4izMniyz_WOCp-OO0uQ)
 [![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram&logoColor=white)](https://www.instagram.com/mrgreenworkshop)
 [![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter&logoColor=white)](https://twitter.com/MrGreenWrkshop)
+
+## Mr. Green's Workshop
+
+Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプロジェクトや、コンテンツを制作しています。<br>
 
 #### モチベーション
 
@@ -52,9 +52,9 @@ Mr. Green's Workshopは、ソフトウェア、電子回路、機械関連のプ
 | ツールやエディター | [<img src="icons/github/devicons-devicon/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/devicons-devicon/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/github-explore/android-studio.png" title="Android Studio" alt="Android Studio" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/github-explore/xcode.png" title="Xcode" alt="Xcode" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/devicons-devicon/github-original-wordmark.svg" title="Github" alt="Github" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/devicons-devicon/bash-original.svg" title="bash"  alt="bash" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/github-explore/homebrew.png" title="Homebrew"  alt="Homebrew" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/devicons-devicon/ssh-original-wordmark.svg" title="ssh"  alt="ssh" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/devicons-devicon/vim-original.svg" title="Vim"  alt="Vim" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; [<img src="icons/github/devicons-devicon/vagrant-original.svg" title="Vagrant"  alt="Vagrant" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; |
 | シミュレーター | [<img src="icons/github/devicons-devicon/labview-original-wordmark.svg" title="NI Labview" alt="NI Labview" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; <a href="https://www.ni.com/en-us/support/downloads/software-products/download.multisim.html#312060"><img src="icons/external/multisim.webp" title="NI Multisim" alt="NI Multisim" width="25" height="25"/></a>&nbsp; [<img src="icons/github/github-explore/matlab.png" title="MATLAB" alt="MATLAB" width="25" height="25"/>](README-jp.md#言語やツールなど)&nbsp; |
 | CADツール | <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription"><img src="icons/external/autocad-2017-badge-75x75.png" title="AutoCAD" alt="AutoCAD" width="25" height="25"/></a>&nbsp; <a href="https://github.com/Ultimaker/Cura/"><img src="icons/external/cura-128.png" title="Ultimaker Cura" alt="Ultimaker  Cura" width="25" height="25"/></a>&nbsp; |
-
+<!-- it is not working right now
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGreensWorkshop&hide=php&theme=default&locale=ja" />](README-jp.md#readme)
-
+-->
 - このコンテンツには、[github.com/devicons/devicon](https://github.com/devicons/devicon)、Copyright（c）2015konpaのアイコンが組み込まれています。 [MIT](https://opensource.org/licenses/MIT)ライセンスのもと使用。
 - このコンテンツには、[github.com/github/explore](https://github.com/github/explore)のアイコンが組み込まれています。 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)ライセンスのもと使用。
 - 外部リンク付きのアイコンは、リンク先から取得したものです。
