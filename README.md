@@ -1,9 +1,5 @@
 [English] [[日本語](README-jp.md#readme)]
 
-## Mr. Green's Workshop
-
-Mr. Green's Workshop creates projects and content related to Software, Electronics, and Mechanics.<br>
-
 [<img align="right" height="250" alt="Mr. Green's Workshop" src="https://avatars.githubusercontent.com/u/76992231?v=4" />](README.md#readme)
 <!-- it is not working right now
 [<img width="450" src="https://github-readme-stats.vercel.app/api?username=MrGreensWorkshop&show_icons=true&hide_border=true">](README.md#readme)
@@ -19,7 +15,11 @@ Mr. Green's Workshop creates projects and content related to Software, Electroni
 [![Instagram](https://shields.io/badge/instagram-gray?logo=Instagram&logoColor=white)](https://www.instagram.com/mrgreensworkshop)
 [![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter&logoColor=white)](https://twitter.com/MrGreenWorkshop)
 [![Mastodon](https://shields.io/badge/Mastodon-gray?logo=mastodon&logoColor=white)](https://mastodon.social/@MrGreensWorkshop)
-  
+
+## Mr. Green's Workshop
+
+Mr. Green's Workshop creates projects and content related to Software, Electronics, and Mechanics.<br>
+
 #### Motivation
 
 I have worked in different fields and gained different experiences. I think it's time to give something back. My father always used to say, "Pay the tax on what you have learned by sharing it with others.".
