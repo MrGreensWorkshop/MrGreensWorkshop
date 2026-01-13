@@ -39,9 +39,9 @@ Creating projects themselves don't pay the bills. It takes a lot of time and eff
 #### Sponsors
 
 My sponsors! Thank you for supporting me.
-
+<!--
 [Josh Buker](https://github.com/joshbuker "First Sponsor!")
-
+-->
 #### Languages, tools etc.
 
 |  |  |
